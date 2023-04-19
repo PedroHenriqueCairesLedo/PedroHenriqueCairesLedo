@@ -1,16 +1,34 @@
-### Hi there 👋
+# Olá, meu nome é Pedro Ledo! 👋
 
-<!--
-**PedroHenriqueCairesLedo/PedroHenriqueCairesLedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um desenvolvedor de software com experiência em FrontEnd e Automoção de testes. Adoro criar soluções inovadoras e resolver desafios difíceis.
 
-Here are some ideas to get you started:
+## Sobre mim 🙋‍♂️
+- 🌱 Estou aprendendo mais sobre Linux.
+- 👯 Estou procurando colaborar em projetos open source relacionados a FrontEnd.
+- 📫 Entre em contato comigo em (77)98151-6532 ou pedroledos@outlook.com.
+- 🌐 Visite meu perfil no [LinkedIn](https://www.linkedin.com/in/pedro-henrique-ledo-baba96272/) ou [GitHub](https://github.com/PedroHenriqueCairesLedo).
+- 📷 Me siga no [Instagram](https://www.instagram.com/ppedroledo/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Habilidades 🚀
+![Linux Badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
+![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React Badge](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Robot Framework Badge](https://img.shields.io/badge/Robot_Framework-008CBA?style=for-the-badge&logo=robotframework&logoColor=white)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroHenriqueCairesLedo&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenriqueCairesLedo&theme=dark)
+
+
+
+
+
+
+
+## Minhas redes sociais:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-henrique-ledo-baba96272/)](https://www.linkedin.com/in/pedro-henrique-ledo-baba96272/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/PedroHenriqueCairesLedo)](https://github.com/PedroHenriqueCairesLedo)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ppedroledo/)](https://www.instagram.com/ppedroledo/)
